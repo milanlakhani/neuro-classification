@@ -1,0 +1,11 @@
+matplotlib
+nilearn
+numpy
+pandas
+PIL
+scipy
+seaborn
+sklearn
+tensorflow
+tqdm
+wandb
